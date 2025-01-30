@@ -1,8 +1,8 @@
 import styled from "styled-components";
 
 export const Wrapper = styled.div`
-padding-left: 20px;
-padding-right: 35px;
+padding-left: 30px;
+padding-right: 45px;
 `;
 
 export const Seacrh = styled.input`
